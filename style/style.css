@@ -1,0 +1,50 @@
+.background-header{
+    width: 200px;
+}
+
+.title-logo-header{
+    width: 200px;
+}
+
+.article-title-size{
+    font-size: 70px;
+}
+
+.Journalist-info{
+    font-size: 20px;
+    color: lightgrey;
+}
+
+#Journalist-name{
+    color: cyan;
+}
+
+.Journal-date{
+    font-size: 15px;
+    color: lightgray;
+}
+
+.Main-photos{
+   height: 500px;
+}
+
+#Photos-description{
+    font-size: 10px;
+    font-weight: 500;
+}
+
+#background-yellow-article{
+    background-color: gold;
+}
+
+.table-size{
+    width: 100%;
+    text-align: justify;
+}
+
+.thead-settings{
+    font-size: 15px;
+    font-weight: 600;
+    background-color: rgb(8, 74, 207);
+    color: aliceblue;
+}
