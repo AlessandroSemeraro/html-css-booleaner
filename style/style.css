@@ -1,5 +1,12 @@
-.background-header{
-    width: 200px;
+.header-background{
+    height: 200px;
+    background-color: rgb(104, 104, 237);
+    background-image: url(../img/pattern.png);
+    background-size: 50%;
+}
+
+.header-logo{
+    height: 50px;
 }
 
 .title-logo-header{
@@ -57,9 +64,24 @@
     width: 500px;
 }
 
-.footer-font{
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 900;
-    font-size: 15px;
-    color: gray;
-}   
+.background-footer-monitor{
+    background-image: url(../img/monitor.jpg);
+    width: 300px;
+    height: 200px;
+    background-size: cover;
+}
+
+.background-footer-graphic{
+    background-image: url(../img/graph.jpg);
+    width: 300px;
+    height: 200px;
+    background-size: cover;
+}
+
+.lorem-footer-white{
+    font-family: 'Impact', 'Haettenschweiler', 'Arial Narrow Bold', sans-serif ;
+    font-size: 25px;
+    color: white;
+}
+
+   
