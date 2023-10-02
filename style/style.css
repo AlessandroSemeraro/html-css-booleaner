@@ -48,3 +48,11 @@
     background-color: rgb(8, 74, 207);
     color: aliceblue;
 }
+
+.tr-background-blue{
+    background-color: aqua;
+}
+
+.td-size-lorem{
+    width: 500px;
+}
